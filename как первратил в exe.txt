@@ -1,0 +1,1 @@
+pyinstaller -F -w -i "D:\програмирование\игра\X-Shape-PNG-Photo.ico" -n змейка от SHEDRY игра.py
